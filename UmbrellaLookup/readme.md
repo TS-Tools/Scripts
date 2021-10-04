@@ -14,7 +14,9 @@ headers = {
 And your ORG ID here
 
 json_data=requests.get('https://management.api.umbrella.com/v1/organizations/<ORG ID> /destinationlists', headers=headers).json()["data"]
+	
 and here
+	
 destinations = requests.get('https://management.api.umbrella.com/v1/organizations/<ORG ID>/destinationlists/'+str(node_id)+'/destinations', headers=headers).json()["data"]
 
 There are also comments in the code as to where these are
