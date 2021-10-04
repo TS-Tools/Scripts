@@ -21,7 +21,7 @@ optional arguments:
   -h, --help            show this help message and exit
   --var1 VAR1, -v1 VAR1
                         variable to search            
-## returns
+## Returns
 
 Depending upon the tool, there may be a output.txt or print directly the terminal, depends on the script's purpose. 
 
