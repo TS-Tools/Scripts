@@ -25,6 +25,7 @@ There are also comments in the code as to where these are
 
 (Burgundy)-(jobs:0)-(/Other - 23 files)
 (11:57:33) -> python Umbrella-Policy-Lookup.py -h
+	
 usage: Umbrella-Policy-Lookup.py [-h] [--var1 VAR1]
 
 optional arguments:
