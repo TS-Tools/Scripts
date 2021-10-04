@@ -30,8 +30,7 @@ usage: Umbrella-Policy-Lookup.py [-h] [--var1 VAR1]
 
 optional arguments:
   -h, --help            show this help message and exit
-  --var1 VAR1, -v1 VAR1
-                        variable to search
+  --var1 VAR1, -v1 VAR1	variable to search
                         
                         
 ### Example
