@@ -35,4 +35,4 @@ optional arguments:
 
 (Burgundy)-(jobs:0)-(/Other - 23 files)
 (11:57:35) -> python Umbrella-Policy-Lookup.py --var1 facebook.com
-facebook.com has been blocked in destination list: 9060424
+facebook.com has been blocked in destination list: 5182617
