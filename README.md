@@ -14,7 +14,9 @@ Most of the tools here have a standard format of input, except where noted.
 for help, try
 
 (Burgundy)-(jobs:0)-(Other - 23 files)
+
 (11:50:49) -> python Umbrella-Policy-Lookup.py -h
+
 usage: Umbrella-Policy-Lookup.py [-h] [--var1 VAR1]
 
 optional arguments:
