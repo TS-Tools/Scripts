@@ -2,7 +2,7 @@
 
 Python script that does a recursive lookup through the Cisco Umbrella policies to test for any blocks. 
 
-## Usage
+# Usage
 
 In order to use this script you will need Python3 and you must edit the script with your Authorization Token and your ORG ID as
 
