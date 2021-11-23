@@ -1,6 +1,6 @@
 # Scripts
 
-This is a collection of scripts that i've written or have forked existing tools to do something that I've required.
+A tool to get the main Umbrella Policy and the destination lists within it, then parse those destination lists for a match on the variable passed. 
 
 ## Requirements or Prerequisites
 
