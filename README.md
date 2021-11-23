@@ -27,7 +27,7 @@ optional arguments:
 
 Depending upon the tool, there may be a output.txt or print directly the terminal, depends on the script's purpose. 
 
-## Acknoledgements
+## Acknowledgements
 
 Any code that was used from external sources will be noded in the comments of that file
 
